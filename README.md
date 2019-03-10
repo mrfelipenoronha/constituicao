@@ -157,6 +157,12 @@ O mais instável. Seu sucesso depende diretamente do professor que estiver ofere
 
 ## Aulas Avançadas
 
+As aulas avançadas são oferecidas tanto no primeiro quanto no segundo semestre do ano. Para que as aulas sejam dadas, os membros interessados em aprender algum assunto deverão pedir para que outro membro a-dê. Por enquanto, não existe lista e nem calendarios para essas aulas, ficando totalmente sobre responsabilidade dos interessados.
+
+## Gravações
+
+O MaratonUSP conta com incriveis materiais para gravação, tais como filmadora, microfone de lapela e placa de captura. No drive da equipe, mais especificamente na pasta 'Youtube', existe um vídeo explicando como utilizar estes equipamentos. Todos eles ficam guardados no LabX. A gravação de aulas é de suma importancia tanto para a marca MaratonUSP quanto para o cenario de programação competitiva brasileiro, logo, sempre que possível, a gravação de aulas deve ser realizada, principalmente as aulas de tópicos avançados, que muitas vezes são de dificil aprendizado com o material disponivel na internet.
+
 ## Matérias da Graduação
 
 Nada como ganhar créditos fazendo Maratona. No IME se oferecem duas oportunidades para isso e o MaratonIME possui a responsabilidade de delegar/preparar os professores ou tutores para esses cursos.
@@ -191,5 +197,3 @@ Tradicionalmente, a tarefa de tutor é assumida pelo Coach. Para mais informaç�
 ### Canal do Telegram
 
 ## Google Drive
-
-### Gravações
